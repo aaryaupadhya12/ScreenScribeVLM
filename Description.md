@@ -1,4 +1,4 @@
-# ScreenScribe — Mobile UI Screen Captioning with Qwen2.5-VL
+# ScreenScribeVLM — Mobile UI Screen Captioning with Qwen2.5-VL
 
 
 Fine-tuned `Qwen2.5-VL-7B-Instruct` on the RICO Screen2Words dataset to generate natural language descriptions of mobile app UI screens.
