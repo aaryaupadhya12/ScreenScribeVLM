@@ -61,7 +61,7 @@ MultiModal_Qwen2.7B_Finetuning/
 Install dependencies:
 
 ```bash
-pip install unsloth datasets pillow
+pip install config/requirements.txt
 ```
 
 Login to Hugging Face (required to pull the model):
